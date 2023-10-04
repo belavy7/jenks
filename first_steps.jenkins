@@ -12,7 +12,7 @@ pipeline {
         stages {
         stage("First step") {
         steps {
-            echo 'ping mail.ru/" 
+            echo "ping mail.ru/" 
             }
         }
         stage("Second step") {
